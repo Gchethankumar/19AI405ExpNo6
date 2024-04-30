@@ -304,6 +304,8 @@ if __name__ == "__main__":
 ![fai1](https://github.com/Gchethankumar/19AI405ExpNo6/assets/118348224/6552911f-03a8-465d-b619-7e8f90f2b569)
 ![fai2](https://github.com/Gchethankumar/19AI405ExpNo6/assets/118348224/9e0f9094-9b59-4221-8626-1183366e9404)
 ![fai3](https://github.com/Gchethankumar/19AI405ExpNo6/assets/118348224/4c429546-f266-4845-a0de-208491d4ae79)
+![fai4](https://github.com/Gchethankumar/19AI405ExpNo6/assets/118348224/464569d4-9aad-41cd-bddf-c5b52dbd117a)
+![fai6](https://github.com/Gchethankumar/19AI405ExpNo6/assets/118348224/f8ef5b82-eb16-4558-ae9e-139b5b2392c9)
 
 
 <hr>
